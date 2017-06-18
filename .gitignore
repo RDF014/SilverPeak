@@ -1,4 +1,4 @@
 node_modules
 
-credentials/cert.pem
-credentials/key.pem
+credentials/client-cert.pem
+credentials/client-key.pem
