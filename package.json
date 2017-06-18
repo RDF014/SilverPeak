@@ -1,0 +1,21 @@
+{
+  "name": "silverpeak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RDF014/SilverPeak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RDF014/SilverPeak/issues"
+  },
+  "homepage": "https://github.com/RDF014/SilverPeak#readme",
+  "dependencies": {
+  }
+}
